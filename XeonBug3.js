@@ -1,6 +1,6 @@
 //base by DGXeon (Xeon Bot Inc.)
 //YouTube: @DGXeon
-//Instagram: unicorn_xeon13
+//Instagram: vadict nova
 //Telegram: t.me/xeonbotinc
 //GitHub: @DGXeon
 //WhatsApp: +916909137213
@@ -2303,3 +2303,4 @@ if (e.includes("Timed Out")) return
 if (e.includes("Value not found")) return
 console.log('Caught exception: ', err)
 })
+
